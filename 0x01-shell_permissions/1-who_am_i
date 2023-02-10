@@ -1,2 +1,2 @@
 #!/bin/bash
-whoami or id -u -n
+whoami command
